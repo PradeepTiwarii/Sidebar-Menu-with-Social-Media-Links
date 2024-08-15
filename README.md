@@ -32,13 +32,13 @@ To view or modify this project, you need the following installed on your machine
 1. Clone or download the project repository:
 
     ```bash
-    git clone https://github.com/your-repo/css-sidebar-menu.git
+    git clone https://github.com/PradeepTiwarii/Sidebar-Menu-with-Social-Media-Links.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd css-sidebar-menu
+    cd Sidebar-Menu-with-Social-Media-Links
     ```
 
 3. Open the `index.html` file in your web browser.
